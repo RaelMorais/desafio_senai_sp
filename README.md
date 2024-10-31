@@ -2,5 +2,5 @@
 Projeto em desenvolvimento...
 
 ```
-git clone
+git clone https://github.com/RaelMorais/desafio_senai_sp.git
 ```
